@@ -1,4 +1,4 @@
-new Swiper(".slider", {
+let swiper = new Swiper(".slider", {
    direction: "vertical",
    speed: 2400,
    mousewheel: {
